@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/correct_answer.mp3" charset="CESU-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/correct_answer.mp3" charset="IBM01148" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/wrong_answer_sound.mp3" charset="CESU-8" />
+  </component>
+</project>
